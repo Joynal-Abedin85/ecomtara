@@ -14,8 +14,9 @@ export default function Home() {
       <main>
         <Banner />
         <Progress></Progress>
-        <Demo></Demo>
+        
         <Plats></Plats>
+        <Demo></Demo>
         <Pricing></Pricing> 
        
       </main>
